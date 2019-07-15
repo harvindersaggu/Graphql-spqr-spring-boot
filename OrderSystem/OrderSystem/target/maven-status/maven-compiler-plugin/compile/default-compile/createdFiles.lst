@@ -1,0 +1,6 @@
+com\tricon\OrderSystem\OrderSystemApplication.class
+com\tricon\OrderSystem\repository\CustomerRepository.class
+com\tricon\OrderSystem\entity\Customer.class
+com\tricon\OrderSystem\resolvers\Query.class
+com\tricon\OrderSystem\service\CustomerService.class
+com\tricon\OrderSystem\resolvers\Mutation.class
